@@ -1,15 +1,15 @@
-.menu {
+.Menu {
     display: flex;
     padding-right: 1.5em;
-
+    cursor: pointer;
+  
     .icon {
-        margin-right: 1.5rem;
-        width: 23px;
-        height: 23px;
-
-        &:hover {
-            cursor: pointer;
-        }
+      margin-right: 1.5rem;
+      width: 23px;
+      height: 23px;
+  
+      &:hover {
+        cursor: pointer;
+      }
     }
-
-}
+  }
