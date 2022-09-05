@@ -32,3 +32,4 @@ function Stories() {
 }
 
 export default Stories;
+/* <ScrollHorizontal className="scroll" reverseScroll={true}></ScrollHorizontal> */
