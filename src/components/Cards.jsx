@@ -41,7 +41,14 @@ function Cards () {
         <div className = "Cards">
             <Stories />
 
-            <Card accountName="sssaaaa" storyBorder={true} image="https://picsum.photos/800/900" comments={commentsOne} likedByText="waskkks" likedByNumber={89} hours={16}
+            <Card 
+            accountName="sssaaaa" 
+            storyBorder={true} 
+            image="https://picsum.photos/800/900" 
+            comments={commentsOne} 
+            likedByText="waskkks" 
+            likedByNumber={89} 
+            hours={16}
             />
         </div>
     )
