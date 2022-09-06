@@ -2,6 +2,7 @@ import "../styles/Cards.scss";
 import Stories from "./Stories";
 import Card from "./Card";
 
+
 function Cards() {
   const date = new Date();
   const commentsOne = [
@@ -51,5 +52,6 @@ function Cards() {
     </div>
   );
 }
+
 
 export default Cards;
