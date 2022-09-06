@@ -15,14 +15,7 @@
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.7",
     "react-scroll-horizontal": "^1.6.6",
-<<<<<<< HEAD
     "react-sticky-el": "^2.0.9",
-=======
-<<<<<<< HEAD
-    "react-sticky-el": "^2.0.9",
-=======
->>>>>>> 2aad8d9972241fd181080973bc53b532275aef25
->>>>>>> 0a57e09516680006c42067acdef90ba53089c82c
     "sass-loader": "^7.1.0",
     "svg-parser": "^2.0.4",
     "web-vitals": "^2.1.4",
@@ -54,12 +47,8 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-<<<<<<< HEAD
     "husky": "^8.0.1",
-    "sass": "^1.54.5"
-=======
     "sass": "^1.54.5",
     "webpack-cli": "^4.10.0"
->>>>>>> 2aad8d9972241fd181080973bc53b532275aef25
   }
 }
